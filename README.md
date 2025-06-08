@@ -59,7 +59,7 @@ Step-by-Step
 
     Run the script:
 
-python handwriting.py
+     python handwriting.py
 
     The output image handwriting_output.png will be generated in the same folder.
 
@@ -69,9 +69,11 @@ Font style	Replace handwriting.ttf with any .ttf font
 Font size	Adjust font_size in the code
 Text color	Change the RGB value in fill=(R,G,B)
 Page size	Change img_width and img_height
+
 📄 License
 
 This project is open-source under the MIT License.
+
 💡 Credits
 
 Built with ❤️ using Python and OpenCV.

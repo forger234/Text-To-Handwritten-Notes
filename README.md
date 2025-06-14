@@ -66,6 +66,7 @@ You’ll be prompted:
 Enter your file name to create:
 
 Just type your desired output name (e.g., my_note) — it will generate my_note.png.
+
 📁 Example Structure
 
 ├── generate_handwriting.py
